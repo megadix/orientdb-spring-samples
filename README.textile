@@ -1,0 +1,7 @@
+h1. OrientDB / Spring integration
+
+h2. About the project
+
+Samples package for _orientdb-spring_ library:
+
+https://github.com/megadix/orientdb-spring
